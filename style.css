@@ -128,7 +128,7 @@ a{
 
 }
 
-#writings a{
+#favorite paintings a{
     text-shadow: none ! important;
     text-decoration: underline ! important;
     color: blue ! important;
@@ -150,4 +150,7 @@ a{
 .contact_1 a{
     color: :white;
     text-shadow: none;
+}
+
+
 }
